@@ -43,7 +43,3 @@ Created by Ryan Criminal Case
 
 YouTube:
 [https://www.youtube.com/@RyanCriminalCase](https://www.youtube.com/@ryancriminalcase1933)
-
-## Version
-
-v1.0
