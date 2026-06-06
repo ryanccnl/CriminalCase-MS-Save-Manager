@@ -24,6 +24,10 @@ Backup and restore tool for the Microsoft Store version of Criminal Case.
 3. Select a backup.
 4. Confirm the restore.
 
+## Screenshot
+
+<img src="screenshot.png" width="400">
+
 ## Requirements
 
 * Windows 10 or Windows 11
@@ -42,4 +46,4 @@ YouTube:
 
 ## Version
 
-v1
+v1.0
